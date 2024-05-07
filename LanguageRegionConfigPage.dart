@@ -17,7 +17,7 @@ class _LanguageRegionConfigPageState extends State<LanguageRegionConfigPage> {
   String selectedCountry = 'Turkey';
   String selectedCity = 'Ankara';
 
-  List<String> languages = ['English', 'Français'];
+  List<String> languages = ['English', 'Français', 'Turkish'];
   List<String> countries = ['Mali', 'Turkey', 'France', 'Guinee', 'USA'];
   List<String> cities = ['Bamako', 'Ankara' 'Paris', 'Rome', 'Madrid'];
 
